@@ -114,3 +114,4 @@
 <script src="js/app.js"></script>
 </body>
 </html>
+<!-- stage 2016-11-18 -->
